@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137253322146",
+    "project_id": "prakhar17-jetchat",
+    "storage_bucket": "prakhar17-jetchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137253322146:android:0ba673c7cdbb41a99246fb",
+        "android_client_info": {
+          "package_name": "prakhar17.developer.jetchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaegkdGxrmEoO_Y_I601CGAuAXfbXqByc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
